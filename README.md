@@ -1,2 +1,2 @@
 # bouilly_www
-Site experimental pour la commune de Bouilly-en-gatinais
+Site experimental de la commune de Bouilly-en-gatinais
