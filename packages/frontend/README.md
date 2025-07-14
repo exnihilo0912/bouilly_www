@@ -85,3 +85,9 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 ---
 
 Built with ❤️ using React Router.
+
+# Bouilly WWW Front End
+## Documents
+### Whimsical Diagrams
+- [Sitemap](https://whimsical.com/sitemap-Xcn8x3ChWkbKEgMMazTgcs)
+- [Wireframe](https://whimsical.com/wireframes-Qf6BCtp5ATZH3JoNeJ4ZQX)
